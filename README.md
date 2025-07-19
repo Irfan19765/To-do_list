@@ -68,7 +68,7 @@ A responsive and minimalistic To-Do List web app built using **HTML, CSS, and Ja
 **Z.B. Mohammed Irfan**  
 🎓 Engineering Student | 💼 Freelance Frontend Developer  
 🌱 Building a Halal Tech Startup, InshaAllah.  
-📩 mdirfan19a@gmail.com | 🌐 [GitHub](https://github.com/mdIrfan264)
+📩 mdirfan19a@gmail.com | 🌐 [GitHub](https://github.com/Irfan19765)
 
 ---
 
